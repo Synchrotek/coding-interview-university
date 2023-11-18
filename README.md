@@ -12,7 +12,7 @@
 > The items listed here will prepare you well for a technical interview at just about any software company,
 > including the giants: Amazon, Facebook, Google, and Microsoft.
 >
-> *Best of luck to you! and Best acreer ahead*
+> *Best of luck to you!*
 
 <details>
 <summary>Translations:</summary>
